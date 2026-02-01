@@ -1,3 +1,6 @@
+Team 2
+Aaditi Choramle
+
 An AI-powered MCP (Model Context Protocol) server that automates:
 
  LinkedIn job searching
@@ -54,7 +57,7 @@ Async runtime	asyncio
 📦 Installation
 1️⃣ Create virtual environment (recommended)
 python -m venv venv
-source venv/bin/activate   # Mac/Linux
+
 venv\Scripts\activate     # Windows
 
 2️⃣ Install dependencies
@@ -81,3 +84,4 @@ Tools loaded:
 5. improve_resume
 6. open_gmail_compose
 7. list_jobs
+
